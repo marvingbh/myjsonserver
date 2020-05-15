@@ -15,6 +15,14 @@
             "Valor": "R$ 15.000,00",
             "Categoria": "Tecnologia",
             "Status": "Ativo"
+        },
+         {
+            "key": 3,
+            "Codigo": "PX4999",
+            "Descricao": "Servico 3",
+            "Valor": "R$ 25.000,00",
+            "Categoria": "Tecnologia",
+            "Status": "Ativo"
         }
     ]
 }
