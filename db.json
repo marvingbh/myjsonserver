@@ -5,14 +5,14 @@
             "Descricao": "Servico 1",
             "Valor": "R$ 5.000,00",
             "Categoria": "Tecnologia",
-            "Status": "Ativo",
+            "Status": "Ativo"
         },
         {
             "Codigo": "PX4552",
             "Descricao": "Servico 2",
             "Valor": "R$ 15.000,00",
             "Categoria": "Tecnologia",
-            "Status": "Ativo",
+            "Status": "Ativo"
         }
     ]
 }
