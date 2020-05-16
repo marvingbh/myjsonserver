@@ -6,7 +6,7 @@
             "Descricao": "Servico 1",
             "Valor": "R$ 5.000,00",
             "Categoria": "Tecnologia",
-            "Status": "Ativo"
+            "Ativo": true
         },
         {
             "key": 2,
@@ -14,7 +14,7 @@
             "Descricao": "Servico 2",
             "Valor": "R$ 15.000,00",
             "Categoria": "Tecnologia",
-            "Status": "Ativo"
+            "Ativo": true
         },
          {
             "key": 3,
@@ -22,7 +22,7 @@
             "Descricao": "Servico 3",
             "Valor": "R$ 25.000,00",
             "Categoria": "Tecnologia",
-            "Status": "Ativo"
+            "Ativo": false
         }
     ],
     "Clientes": [
