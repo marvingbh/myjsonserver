@@ -1,6 +1,7 @@
 {
     "Servicos": [
         {
+            "id": 1,
             "key": 1,
             "Codigo": "PX4512",
             "Descricao": "Servico 1",
@@ -9,6 +10,7 @@
             "Ativo": true
         },
         {
+            "id": 2,
             "key": 2,
             "Codigo": "PX4552",
             "Descricao": "Servico 2",
@@ -17,6 +19,7 @@
             "Ativo": true
         },
          {
+            "id": 3,
             "key": 3,
             "Codigo": "PX4999",
             "Descricao": "Servico 3",
@@ -27,6 +30,7 @@
     ],
     "Clientes": [
         {
+            "id": 1,
             "key": 1,
             "Codigo": "CLI001",
             "Tipo": "Fisica",
@@ -35,6 +39,7 @@
             "Status": "Ativo"
         },
         {
+            "id": 2,
             "key": 2,
             "Codigo": "CLI002",
             "Tipo": "Juridica",
