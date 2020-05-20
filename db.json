@@ -47,5 +47,21 @@
             "Documento": "08800343000142",
             "Status": "Ativo"
         }
+    ],
+    "Categorias": [
+        {
+            "id": 1,
+            "Codigo": null,
+            "Descricao": "Suporte",
+            "Ativo": true,
+            "Tipo": "S"
+        },
+        {
+            "id": 2,
+            "Codigo": null,
+            "Descricao": "Tecnologia",
+            "Ativo": true,
+            "Tipo": "S"
+        }
     ]
 }
