@@ -8,7 +8,7 @@
             "Valor": "R$ 5.000,00",
             "Categoria": [1,2],
             "Ativo": true,
-            "Tipo": "U", 
+            "Tipo": "U"
         },
         {
             "id": 2,
