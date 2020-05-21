@@ -6,8 +6,9 @@
             "Codigo": "PX4512",
             "Descricao": "Servico 1",
             "Valor": "R$ 5.000,00",
-            "Categoria": [],
-            "Ativo": true
+            "Categoria": [1,2],
+            "Ativo": true,
+            "Tipo": "U", 
         },
         {
             "id": 2,
@@ -15,8 +16,9 @@
             "Codigo": "PX4552",
             "Descricao": "Servico 2",
             "Valor": "R$ 15.000,00",
-            "Categoria": [],
-            "Ativo": true
+            "Categoria": [1],
+            "Ativo": true,
+            "Tipo": "H" 
         },
          {
             "id": 3,
@@ -24,8 +26,9 @@
             "Codigo": "PX4999",
             "Descricao": "Servico 3",
             "Valor": "R$ 25.000,00",
-            "Categoria": [],
-            "Ativo": false
+            "Categoria": [2],
+            "Ativo": false,
+            "Tipo": "U" 
         }
     ],
     "Clientes": [
