@@ -58,6 +58,60 @@
             "Nome": "Cliente 4",
             "Documento": "088003430001422",
             "Status": "Ativo"
+        },
+        {
+            "id": 1,
+            "key": 1,
+            "Codigo": "CLI001",
+            "Tipo": "Fisica",
+            "Nome": "Cliente 1",
+            "Documento": "98624638054",
+            "Status": "Ativo"
+        },
+        {
+            "id": 2,
+            "key": 2,
+            "Codigo": "CLI002",
+            "Tipo": "Juridica",
+            "Nome": "Cliente 2",
+            "Documento": "08800343000142",
+            "Status": "Ativo"
+        },
+        {
+            "id": 3,
+            "key": 4,
+            "Codigo": "CLI003",
+            "Tipo": "Juridica",
+            "Nome": "Cliente 4",
+            "Documento": "088003430001422",
+            "Status": "Ativo"
+        },
+        {
+            "id": 1,
+            "key": 1,
+            "Codigo": "CLI001",
+            "Tipo": "Fisica",
+            "Nome": "Cliente 1",
+            "Documento": "98624638054",
+            "Status": "Ativo"
+        },
+        {
+            "id": 2,
+            "key": 2,
+            "Codigo": "CLI002",
+            "Tipo": "Juridica",
+            "Nome": "Cliente 2",
+            "Documento": "08800343000142",
+            "Status": "Ativo"
+        },
+        {
+            "id": 3,
+            "key": 4,
+            "Codigo": "CLI003",
+            "Tipo": "Juridica",
+            "Nome": "Cliente 4",
+            "Documento": "088003430001422",
+            "Status": "Ativo"
         }
         
     ],
